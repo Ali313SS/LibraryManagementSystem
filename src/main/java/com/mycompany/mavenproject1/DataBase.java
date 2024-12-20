@@ -19,7 +19,6 @@ public class DataBase {
         
 //        try {
 //            
-//            // Replace with your database URL, username, and password
 //            String url = "jdbc:sqlserver://DESKTOP-VNM1EDO:1433;databaseName=SoftWareEngineering";
 //            String username = "sa";
 //            String password = "AliRagab313";
@@ -257,7 +256,7 @@ public void removeBorrow(String username, int bookId) {
         }
         return messages;
     } 
-    // Get all user reserved books
+ 
     
     
 }
