@@ -4,7 +4,7 @@
 ![MSSQL](https://img.shields.io/badge/MSSQL-8.0-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.8%2B-red)
 
-A desktop application for managing library operations, built with Java and MySQL. Designed for librarians to efficiently track books, members, and transactions.
+A desktop application for managing library operations, built with Java and MSSQL. Designed for librarians to efficiently track books, members, and transactions.
 
 [![GitHub Stars](https://img.shields.io/github/stars/Ali313SS/LibraryManagementSystem?style=social)](https://github.com/Ali313SS/LibraryManagementSystem/stargazers)
 
