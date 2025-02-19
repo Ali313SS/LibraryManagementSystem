@@ -1,7 +1,7 @@
 # 📖 Library Management System
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
-![MSSQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![MSSQL](https://img.shields.io/badge/MSSQL-8.0-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.8%2B-red)
 
 A desktop application for managing library operations, built with Java and MySQL. Designed for librarians to efficiently track books, members, and transactions.
